@@ -1,5 +1,5 @@
 {
-  "homepage": "http://apratim93.github.io/newsworld",
+  // "homepage": "http://apratim93.github.io/newsworld",
   "name": "api-news",
   "version": "0.1.0",
   "private": true,
@@ -23,8 +23,8 @@
     "react-sticky-footer": "0.1.0-rc3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    // "predeploy": "npm run build",
+    // "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
